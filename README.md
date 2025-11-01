@@ -6,20 +6,20 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=galuhgallagher&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galuhgallagher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QxdzFmczZldXRoc2d0MHBvZDdqbTQ5MGFudzhjNDJ3MTFpbWl5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eIgxkeDtLSbWLkOAc/giphy.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QxdzFmczZldXRoc2d0MHBvZDdqbTQ5MGFudzhjNDJ3MTFpbWl5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eIgxkeDtLSbWLkOAc/giphy.gif"  />
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
 
