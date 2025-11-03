@@ -22,17 +22,6 @@
 
 ###
 
-<h2 align="left">Activity</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galuhgallagher&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galuhgallagher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">What I learned</h2>
 
 ###
@@ -40,7 +29,7 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QxdzFmczZldXRoc2d0MHBvZDdqbTQ5MGFudzhjNDJ3MTFpbWl5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eIgxkeDtLSbWLkOAc/giphy.gif"  />
 
 ###
-
+<p align="left">This guy also lying about this</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -76,6 +65,10 @@
 </div>
 
 ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 <h2 align="left">Social Media</h2>
 
